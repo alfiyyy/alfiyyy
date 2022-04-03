@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfiyyy
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning cpp program and html
+- 🌱 I’m currently learning cpp , html , css , js
 - 📫 How to reach me https://steamcommunity.com/profiles/76561198318823460/
 
 <!---
