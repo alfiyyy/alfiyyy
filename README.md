@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @alfiyyy
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning cpp , html , css , js
+- 🌱 I’m currently learning cpp , html , css , js , php , java
+- 💎 Common to reactjs, expressjs, bootstrap
 - 📫 How to reach me https://steamcommunity.com/profiles/76561198318823460/
 
 <!---
